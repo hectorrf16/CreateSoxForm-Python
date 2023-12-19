@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######
+easygui
+pyinstaller
+docx
+win32com.client
+openpyxl
+smtplib
